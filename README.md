@@ -20,7 +20,7 @@ You can change the input file in the code.
 
 ### Requirements (if using Google Colaboratory)
 
-1. Clone this repository in Google Colab : git clone 
+1. Clone this repository in Google Colab : `!git clone https://github.com/onkarsabnis/ProteinCrysPred_DL.git`
 2. Go to approapriate directory using cd command
 3. To run the model in evaluation mode, run the above command (New Test file one)
 
