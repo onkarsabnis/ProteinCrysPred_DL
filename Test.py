@@ -8,7 +8,7 @@ import sklearn.metrics as metrics
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
 dir = './model'
-test_file = './DATA/DC_final/DC_final.fasta'
+test_file = './DATA/DC_final/test_file.fasta'
 def input_fasta_800(filePath):
     X_train = []
     Y_train = []
