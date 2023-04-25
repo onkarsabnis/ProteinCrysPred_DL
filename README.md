@@ -43,7 +43,7 @@ $ !python Train.py <file.fasta>. <br />
 Add the trained model in the 'model' directory.
 
 
-### Run the model on test file (sample train and test files present in the repository)
+### Run the model on test file
   `!CUDA_VISIBLE_DEVICES=? python Test.py`
 
 You can change the input file in the code.
