@@ -14,6 +14,7 @@
   `!CUDA_VISIBLE_DEVICES=? python Train.py` -->
   
 Download the model from here: https://bit.ly/3AvynXa
+Add the downloaded model in model directory.
   
 ### Run the model on test file (sample train and test files present in the repository)
   `!CUDA_VISIBLE_DEVICES=? python Test.py`
