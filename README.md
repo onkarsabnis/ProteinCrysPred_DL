@@ -15,11 +15,6 @@
   
 <!-- Download the model from here: https://bit.ly/3AvynXa <br/>
 Add the downloaded model in model directory. -->
-  
-### Run the model on test file (sample train and test files present in the repository)
-  `!CUDA_VISIBLE_DEVICES=? python Test.py`
-
-You can change the input file in the code.
 
 ### Requirements (if using Google Colaboratory)
 
@@ -44,4 +39,9 @@ where '>Seq1' represents the fasta id and the second line is the protein sequenc
 
 4. To train the model on your own data, run the following command (Train.py and the fasta file have to be in the same directory):<br />
 $ !python Train.py <file.fasta>
+
+### Run the model on test file (sample train and test files present in the repository)
+  `!CUDA_VISIBLE_DEVICES=? python Test.py`
+
+You can change the input file in the code.
 
