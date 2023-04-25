@@ -28,8 +28,8 @@ You can change the input file in the code.
 
 1. Protein sequences have to be saved in a fasta format similar to following format:
 
-.>Seq1
-MPKFYCDYCDTYLTHDSPSVRKTHCSGRKHKENVKDYYQKWMEEQAQSLIDKTTAAFQQG
+.>Seq1 <br />
+MPKFYCDYCDTYLTHDSPSVRKTHCSGRKHKENVKDYYQKWMEEQAQSLIDKTTAAFQQG <br />
 where '>Seq1' represents the fasta id and the second line is the protein sequence.
 
 2. Download the model files ( all files *.hdf5 and files *.json) by running the following command: <br />
