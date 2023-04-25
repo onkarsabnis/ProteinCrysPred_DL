@@ -42,9 +42,6 @@ where '>Seq1' represents the fasta id and the second line is the protein sequenc
 $ !python Train.py <file.fasta>. <br />
 Add the trained model in the 'model' directory.
 
-
-### Run the model on test file
-  `!CUDA_VISIBLE_DEVICES=? python Test.py`
-
+Now to run the model on test file: `!CUDA_VISIBLE_DEVICES=? python Test.py` <br/>
 You can change the input file in the code.
 
