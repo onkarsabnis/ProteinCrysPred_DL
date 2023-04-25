@@ -35,9 +35,9 @@ where '>Seq1' represents the fasta id and the second line is the protein sequenc
 2. Download the model files ( all files *.hdf5 and files *.json) by running the following command: <br />
 `wget https://storage.entrydns.org/nextcloud/index.php/s/3ErNEaZiKp39x4N/download`
 
-3. Run the following two commands after downloading the model files:
-!unzip download
-!rm download
+3. Run the following two commands after downloading the model files: <br />
+!unzip download <br />
+!rm download <br />
 
 4. To train the model on your own data, run the following command (Train.py and the fasta file have to be in the same directory):
 $ !python Train.py <file.fasta>
