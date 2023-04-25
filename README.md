@@ -29,7 +29,6 @@ You can change the input file in the code.
 1. Protein sequences have to be saved in a fasta format similar to following format:
 
 .>Seq1
-
 MPKFYCDYCDTYLTHDSPSVRKTHCSGRKHKENVKDYYQKWMEEQAQSLIDKTTAAFQQG
 where '>Seq1' represents the fasta id and the second line is the protein sequence.
 
