@@ -13,7 +13,7 @@
 # Run the model in Train Mode
   `!CUDA_VISIBLE_DEVICES=? python Train.py` -->
   
-### Run the model on New Test file
+### Run the model on test file (sample train and test files present in the repository)
   `!CUDA_VISIBLE_DEVICES=? python Test.py`
 
 You can change the input file in the code.
