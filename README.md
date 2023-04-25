@@ -33,7 +33,7 @@ MPKFYCDYCDTYLTHDSPSVRKTHCSGRKHKENVKDYYQKWMEEQAQSLIDKTTAAFQQG
 where '>Seq1' represents the fasta id and the second line is the protein sequence.
 
 2. Download the model files ( all files *.hdf5 and files *.json) by running the following command: <br />
-` wget https://storage.entrydns.org/nextcloud/index.php/s/3ErNEaZiKp39x4N/download`
+`wget https://storage.entrydns.org/nextcloud/index.php/s/3ErNEaZiKp39x4N/download`
 
 3. Run the following two commands after downloading the model files:
 !unzip download
