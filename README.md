@@ -1,6 +1,6 @@
 # Protein Crystallization Propensity Prediction Using Deep Learning Approach
 
-# Installations Needed
+<!-- # Installations Needed -->
 
 ### Requirements (if using Anaconda)
 
