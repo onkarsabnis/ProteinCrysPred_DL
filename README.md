@@ -11,10 +11,10 @@
 5. Install sklearn: `conda install -c conda-forge scikit-learn`
 <!-- 
 # Run the model in Train Mode
-  `CUDA_VISIBLE_DEVICES=? python Train.py` -->
+  `!CUDA_VISIBLE_DEVICES=? python Train.py` -->
   
 ### Run the model on New Test file
-  `CUDA_VISIBLE_DEVICES=? python Test.py`
+  `!CUDA_VISIBLE_DEVICES=? python Test.py`
 
 You can change the input file in the code.
 
@@ -39,5 +39,5 @@ where '>Seq1' represents the fasta id and the second line is the protein sequenc
 !rm download
 
 4. To train the model on your own data, run the following command (Train.py and the fasta file have to be in the same directory):
-$ python Train.py <file.fasta>
+$ !python Train.py <file.fasta>
 
