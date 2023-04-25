@@ -20,7 +20,8 @@ Add the downloaded model in model directory. -->
 
 1. Clone this repository in Google Colab : `!git clone https://github.com/onkarsabnis/ProteinCrysPred_DL.git`
 2. Go to approapriate directory using cd command
-3. To run the model in evaluation mode, run the above command (New Test file one)
+3. Now train the model on the data present in the data directory(it's not the complete data but a subset) by: `!CUDA_VISIBLE_DEVICES=? python Train.py`
+4. To run the model on a sample test file do: `!CUDA_VISIBLE_DEVICES=? python Test.py`
 
 ### To Train the entire Model
 
