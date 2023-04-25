@@ -39,6 +39,6 @@ where '>Seq1' represents the fasta id and the second line is the protein sequenc
 !unzip download <br />
 !rm download <br />
 
-4. To train the model on your own data, run the following command (Train.py and the fasta file have to be in the same directory):
+4. To train the model on your own data, run the following command (Train.py and the fasta file have to be in the same directory):<br />
 $ !python Train.py <file.fasta>
 
