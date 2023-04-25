@@ -13,6 +13,8 @@
 # Run the model in Train Mode
   `!CUDA_VISIBLE_DEVICES=? python Train.py` -->
   
+Download the model from here: https://bit.ly/3AvynXa
+  
 ### Run the model on test file (sample train and test files present in the repository)
   `!CUDA_VISIBLE_DEVICES=? python Test.py`
 
