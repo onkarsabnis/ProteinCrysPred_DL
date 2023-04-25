@@ -24,7 +24,7 @@ You can change the input file in the code.
 2. Go to approapriate directory using cd command
 3. To run the model in evaluation mode, run the above command (New Test file one)
 
-# To Train the entire Model
+### To Train the entire Model
 
 1. Protein sequences have to be saved in a fasta format similar to following format:
 
